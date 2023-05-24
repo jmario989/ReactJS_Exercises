@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.sadrzaj {
+    padding: 0 15px;
+}
+
+.ispravno-polje {
+    border: 1px solid dodgerblue;
+    box-shadow: 0 0 5px dodgerblue;
+}
+
+.neispravno-polje {
+    border: 1px solid red;
+    box-shadow: 0 0 5px red;
+}

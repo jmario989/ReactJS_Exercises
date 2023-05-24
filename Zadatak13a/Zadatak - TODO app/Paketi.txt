@@ -1,0 +1,18 @@
+1. Prop types:
+	npm install --save-dev prop-types
+	
+2. React Bootstrap :
+	npm install --save bootstrap react-bootstrap
+	import 'bootstrap/dist/css/bootstrap.css'; 
+	
+3. randomstring-ng
+	npm install --save randomstring-ng
+	
+NAPREDNO:
+4. Redux
+	npm install --save redux react-redux
+	
+BUILD:
+	npm install -g serve [ako ranije niste]
+	npm run build
+	serve -s build
